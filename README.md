@@ -321,6 +321,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Infinity AI](https://infinity.ai/) - Infinity is a video foundation model that allows you to craft your characters and then bring them to life.
 - [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
+- [videos.social](https://videos.social/?utm_source=eleffa-awesome-generative-ai&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blog posts, PDFs, and prompts into editable faceless videos.
 
 ### Avatars
 
